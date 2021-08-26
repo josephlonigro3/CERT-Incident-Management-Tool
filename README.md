@@ -1,2 +1,4 @@
 # CERT-Incident-Management-Tool
 This Project was the calmative assignment for Pasadena City College's "Computer Information Systems - Full Stack Web Development certificate of Achievement."
+
+The Campus Emergency Response Team(CERT) at Pasadena City College has tasked us to implement a software solution to manage available resources and their assignments to various emergency incidents that may have already occurred, are happening or may happen in the future in and around the campus. Emergency incidents may include, but not limited to, hazardous waste spills, acts of terrorism, nuclear incident, campus shooting, car crashes with fatalities, flooding, fire, etc.  All users of the system can add their own resources to the system, search for resources based on keywords, track resource status by generating a report, or add emergency incidents to the system. 
